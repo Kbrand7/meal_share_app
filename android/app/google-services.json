@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "268270075122",
+    "project_id": "meal-8463e",
+    "storage_bucket": "meal-8463e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268270075122:android:01d14abd2808fea9f6646b",
+        "android_client_info": {
+          "package_name": "com.example.meal_share_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN_9bZ1BlPBeLTUyTo8hsQkcmW7gk81cI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

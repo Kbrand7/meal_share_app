@@ -1,0 +1,52 @@
+name: meal_share_app
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  geolocator: ^12.0.0
+  permission_handler: ^11.3.1
+  google_maps_flutter: ^2.7.0
+  firebase_core: ^3.1.1
+  firebase_auth: ^5.1.1
+  firebase_messaging: ^15.0.2
+  http: ^1.2.1
+  flutter_typeahead: ^5.2.0
+  flutter_google_maps_webservices: ^1.1.1
+  cloud_firestore: ^5.0.2
+  geocoding: ^3.0.0
+  flutter_map: ^7.0.2
+  latlong2: ^0.9.1
+  intl: ^0.19.0
+  
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+
+  assets:
+    - assets/images/bg.jpg
+    - assets/images/location.png
+    - assets/images/logout.png
+    - assets/images/post_donation.png
+    - assets/images/profile.png
+    - assets/images/status_updates.png
+    - assets/images/volunteer_coordination.png
+    - assets/images/pickup_scheduling.png
+    - assets/images/alerts.png
+    - assets/images/browse_donations.png
+    - assets/images/pick_location.png
